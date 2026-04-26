@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @Pooja8130
-- 👀 I’m interested in web development 
-- 🌱 I’m currently learning Javascript
+Data Analyst with 4+ years of experience turning complex datasets into actionable insights.
+Skilled in SQL, Python, Power BI, and Excel.
+Passionate about EDA, KPI dashboards, and data-driven storytelling.
 
 <!---
 Pooja8130/Pooja8130 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
